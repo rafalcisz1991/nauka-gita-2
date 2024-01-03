@@ -1,0 +1,39 @@
+/* Global */
+*, *::before, *::after {
+    box-sizing: border-box; }
+
+    body {
+        margin: 0 auto;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    section {
+        padding: 50px 0;
+    }
+
+    .container {
+        max-width: 1140px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+/* Text body */
+
+    h1 {
+        font-weight: bold;
+    }
+
+    .strophes {
+        text-align: left;
+    }
+
+    span {
+        font-style: italic;
+    }
+
+    .source {
+        color: gray;
+        font-size: small;
+    }
+
+/* Text Body */
