@@ -1,0 +1,8 @@
+1) Instalacja html-validate
+
+$ npm install --save-dev html-validate
+
+2) Sprawdzanie poprawności wszystkich plików z rozszerzeniem .html
+
+npm exec html-validate *.html
+
